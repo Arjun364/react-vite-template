@@ -37,9 +37,12 @@ it is basic structure with tailwind and react icons [more things will be added l
     - npm install react-router-dom
 
     + install tailwind css to the project.
-    - npm install -D tailwindcss postcss autoprefixer.
+    - npm install -D tailwindcss 
     | install the tailwind libary flowbite to the project.
     - npm i flowbite-react 
+
+    + To run the project.
+    - npm run dev
 
 
 
