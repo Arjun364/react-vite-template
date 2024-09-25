@@ -21,7 +21,7 @@ it is basic structure with tailwind and react icons [more things will be added l
  -- React RouterDom
  -- Tailwind css
  -- React flowbite
-
+ -- React Material
 
  -----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -41,9 +41,10 @@ it is basic structure with tailwind and react icons [more things will be added l
     | install the tailwind libary flowbite to the project.
     - npm i flowbite-react 
 
+    + install material ui to the project.
+    - npm install @mui/material @emotion/react @emotion/styled
+    - npm install @mui/material @mui/styled-engine-sc styled-components
+
     + To run the project.
     - npm run dev
-
-
-
 
