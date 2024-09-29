@@ -9,41 +9,26 @@ Currently, two official plugins are available:
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# hey it is project template for react vite.  
+# Hey it is project template for react vite.  
 
 it is basic structure with tailwind and react icons [more things will be added later 😁]
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# things added in there:
+# Things added in there:
 
- -- React icons
- -- React RouterDom
- -- Tailwind css
- -- React flowbite
- -- React Material
+ -- React icons :+ npm i react-icons
+ -- React RouterDom :+ npm install react-router-dom
+ -- Tailwind css :+ npm install -D tailwindcss 
+ -- React flowbite :+ npm i flowbite-react 
+ -- React Material :+ npm install @mui/material @emotion/react @emotion/styled || npm install @mui/material @mui/styled-engine-sc styled-components
 
  -----------------------------------------------------------------------------------------------------------------------------------------
 
-# things to be installed before starting the project. 
+# Things to be installed before starting the project. 
 
     + first the template have to install the node modules in here.
-    - npm i [npm install]
-
-    + install react icons to the project.
-    - npm i react-icons
-
-    + install react router dom to the project .
-    - npm install react-router-dom
-
-    + install tailwind css to the project.
-    - npm install -D tailwindcss 
-    | install the tailwind libary flowbite to the project.
-    - npm i flowbite-react 
-
-    + install material ui to the project.
-    - npm install @mui/material @emotion/react @emotion/styled
-    - npm install @mui/material @mui/styled-engine-sc styled-components
+    - npm i npm install
 
     + To run the project.
     - npm run dev
