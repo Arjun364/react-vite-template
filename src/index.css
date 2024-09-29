@@ -5,11 +5,33 @@
 @tailwind utilities;
 
 :root {
-  @apply m-0 p-0 box-border ;
+  @apply m-0 p-0 box-border font-poppins ;
 }
 
-body{
+/* body{
   @apply w-full h-[100vh];
+} */
+
+/* Typography */
+
+.heading-xl{
+  @apply text-[70px] font-poppins  font-bold;
 }
 
+.heading-l{
+  @apply text-[50px] font-poppins  font-bold;
+}
+
+.heading-m{
+  @apply text-[24px] font-poppins   ;
+
+}
+
+.body-text{
+  @apply text-[16px] font-poppins  ;
+}
+
+.heading-s{
+  @apply text-[18px] font-poppins ;
+}
 
