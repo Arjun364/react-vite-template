@@ -22,6 +22,8 @@ it is basic structure with tailwind and react icons [more things will be added l
  -- Tailwind css :+ npm install -D tailwindcss 
  -- React flowbite :+ npm i flowbite-react 
  -- React Material :+ npm install @mui/material @emotion/react @emotion/styled || npm install @mui/material @mui/styled-engine-sc styled-components
+ -- axios (api fetching libary) :+ npm i axios
+ -- sweet alert 2 (alert libary) :+ npm i sweetalert2 
 
  -----------------------------------------------------------------------------------------------------------------------------------------
 
