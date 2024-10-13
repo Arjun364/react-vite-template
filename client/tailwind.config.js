@@ -3,7 +3,7 @@ const flowbite = require("flowbite-react/tailwind");
 /** @type {import('tailwindcss').Config} */
 export default {
   // darkmode on the based on the system
-  darkMode: 'media',
+  darkMode: 'class',
   // tailwind visibilty
   content: [
     "./index.html",
